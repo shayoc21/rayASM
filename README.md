@@ -11,3 +11,6 @@ To run:
 nasm -f bin -o main.com main.asm
 
 dosbox main.com
+
+
+formatting is all screwed up because of my inconsistent use of noexpandtab in my vimrc, will fix at some point in the future probably
