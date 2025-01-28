@@ -1,5 +1,3 @@
-#rayASM
-
 simple 3D-like raycaster written in 16 bit x86 assembly.
 
 Intended to be run in DOS emulators (only tested with dosbox and dosemu on linux).
